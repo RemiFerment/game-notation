@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "GameNotationApp.AppHost/GameNotationApp.AppHost.csproj"
+  }
+}
