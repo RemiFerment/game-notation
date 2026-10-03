@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="GameNotationApp.ApiService/GameNotationApp.ApiService.csproj" />
   <Project Path="GameNotationApp.AppHost/GameNotationApp.AppHost.csproj" />
+  <Project Path="GameNotationApp.Data/GameNotationApp.Data.csproj" />
   <Project Path="GameNotationApp.ServiceDefaults/GameNotationApp.ServiceDefaults.csproj" />
   <Project Path="GameNotationApp.Web/GameNotationApp.Web.csproj" />
 </Solution>
