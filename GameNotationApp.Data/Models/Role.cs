@@ -1,3 +1,5 @@
+using System.Reflection.Metadata;
+
 namespace GameNotationApp.Data.Models;
 
 public class Role
