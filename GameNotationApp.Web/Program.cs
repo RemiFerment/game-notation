@@ -23,7 +23,7 @@ app.UseStatusCodePagesWithReExecute("/not-found", createScopeForStatusCodePages:
 
 app.UseHttpsRedirection();
 
-app.MapGet("/health",() =>
+app.MapGet("/health", () =>
 {
     return Results.Ok("Ok.");
 });
